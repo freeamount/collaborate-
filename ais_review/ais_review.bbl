@@ -1,0 +1,146 @@
+\begin{thebibliography}{10}
+
+\bibitem{Acan04ClonalSelection}
+Adnan Acan.
+\newblock Clonal selection algorithm with operator multiplicity.
+\newblock In {\em Evolutionary Computation, 2004. CEC2004. Congress on},
+  volume~2, pages 1909 -- 1915 Vol.2, june 2004.
+
+\bibitem{Burnet59Theclonalselection}
+F.~M. Burnet.
+\newblock {\em The clonal selection theory of acquired immunity}.
+\newblock Vanderbilt University Press, 1959.
+
+\bibitem{Campelo05Aclonalselection}
+F.~Campelo, F.G. Guimaraes, H.~Igarashi, and J.A. Ramirez.
+\newblock A clonal selection algorithm for optimization in electromagnetics.
+\newblock {\em IEEE Transactions on Magnetics}, 41(5):1736 -- 1739, may 2005.
+
+\bibitem{Cruz-Cortes05HandlingConstraints}
+Nareli Cruz-Cort{\'e}s, Daniel Trejo-P{\'e}rez, and Carlos A.~Coello Coello.
+\newblock Handling constraints in global optimization using an artificial
+  immune system.
+\newblock In {\em Proceedings of the 4th international conference on Artificial
+  Immune Systems}, ICARIS'05, pages 234--247, Berlin, Heidelberg, 2005.
+  Springer-Verlag.
+
+\bibitem{Cutello06exploring}
+Vincenzo Cutello, Giuseppe Nicosia, and Mario Pavone.
+\newblock Exploring the capability of immune algorithms: A characterization of
+  hypermutation operators.
+\newblock In {\em Proceedings of the 2004 International Conferences on
+  Artificial Immune Systems}, pages 263--276, 2004.
+
+\bibitem{deCastro02Learningand}
+L.~N. de~Castro and F.~J. Von~Zuben.
+\newblock Learning and optimization using the clonal selection principle.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 6(3):239--251,
+  June 2002.
+
+\bibitem{Castro02ArtificialImmune}
+Leandro~N De~Castro and Jonathan Timmis.
+\newblock {\em Artificial Immune Systems: A New Computational Intelligence
+  Approach}.
+\newblock Springer, 2002.
+
+\bibitem{deCastro00TheClonalSelection}
+Leandro~N. {de Castro} and Fernando~J. {Von Zuben}.
+\newblock The clonal selection algorithm with engineering applications.
+\newblock In {\em Proceedings of GECCO'00, Workshop on Artificial Immune
+  Systems and Their Applications}, July 2000.
+
+\bibitem{Engin04Anewapproach}
+Orhan Engin and Alper D\"{o}yen.
+\newblock A new approach to solve hybrid flow shop scheduling problems by
+  artificial immune system.
+\newblock {\em Future Generarion Computing System}, 20(6):1083--1095, August
+  2004.
+
+\bibitem{Garrett04Parameter-free}
+Simon~M. Garrett.
+\newblock Parameter-free, adaptive clonal selection.
+\newblock In {\em Congress on Evolutionary Computing (CEC 2004)}, volume~1.
+  IEEE Press, 2004.
+
+\bibitem{Gong10LamarckianLearning}
+Maoguo Gong, Licheng Jiao, Jie Yang, and Fang Liu.
+\newblock Lamarckian learning in clonal selection algorithm for numerical
+  optimization.
+\newblock {\em International Journal on Artificial Intelligence Tools},
+  19(1):19--37, 2010.
+
+\bibitem{Gong10Baldwinianlearning}
+Maoguo Gong, Licheng Jiao, and Lining Zhang.
+\newblock Baldwinian learning in clonal selection algorithm for optimization.
+\newblock {\em Information Science}, 180(8):1218--1236, April 2010.
+
+\bibitem{Hart08Applicationareas}
+Emma Hart and Jon Timmis.
+\newblock Application areas of ais: The past, the present and the future.
+\newblock {\em Applied Soft Computing}, 8(1):191--201, 2008.
+
+\bibitem{Hofmeyr00Architecturefor}
+Steven~A. Hofmeyr and Stephanie~A. Forrest.
+\newblock Architecture for an artificial immune system.
+\newblock {\em Evolutionary Computation}, 8(4):443--473, December 2000.
+
+\bibitem{Khilwani08Fastclonal}
+Nitesh Khilwani, Anoop Prakash, Ravi Shankar, and M.~K. Tiwari.
+\newblock Fast clonal algorithm.
+\newblock {\em Engineering Applications of Artificial Intelligence},
+  21(1):106--128, February 2008.
+
+\bibitem{Lu09AnImprovedClonal}
+Hong Lu and Jing Yang.
+\newblock An improved clonal selection algorithm for job shop scheduling.
+\newblock In {\em Proceedings of the 2009 International Symposium on
+  Intelligent Ubiquitous Computing and Education}, IUCE '09, pages 34--37,
+  Washington, DC, USA, 2009. IEEE Computer Society.
+
+\bibitem{Ma09Animproved}
+Jia Ma, Liqun Gao, and Gang Shi.
+\newblock An improved immune clonal selection algorithm and its applications
+  for vrp.
+\newblock In {\em Automation and Logistics, 2009. ICAL '09. IEEE International
+  Conference on}, pages 2097 --2100, aug. 2009.
+
+\bibitem{Panigrahi2007Aclonalalgorithm}
+B.K. Panigrahi, Salik~R. Yadav, Shubham Agrawal, and M.K. Tiwari.
+\newblock A clonal algorithm to solve economic load dispatch.
+\newblock {\em Electric Power Systems Research}, 77(10):1381 -- 1389, 2007.
+
+\bibitem{Timmis08TheoreticalAdvances}
+J.~Timmis, A.~Hone, T.~Stibor, and E.~Clark.
+\newblock Theoretical advances in artificial immune systems.
+\newblock {\em Theoretical Computer Science}, 403(1):11--32, August 2008.
+
+\bibitem{Timmis07Artificialimmune}
+Jon Timmis.
+\newblock Artificial immune systems---today and tomorrow.
+\newblock {\em Natural Computing}, 6(1):1--18, March 2007.
+
+\bibitem{Tiwari05Determinationof}
+M.~Tiwari, Prakash, A.~Kumar, and A.~Mileham.
+\newblock Determination of an optimal assembly sequence using the psychoclonal
+  algorithm.
+\newblock {\em Proceedings of the I MECH E Part B Journal of Engineering
+  Manufacture}, 219(1):137+.
+
+\bibitem{Yang08ImprovedClonal}
+Jie Yang, Maoguo Gong, Licheng Jiao, and Lining Zhang.
+\newblock Improved clonal selection algorithm based on lamarckian local search
+  technique.
+\newblock In {\em IEEE Congress on Evolutionary Computation}, pages 535--541,
+  2008.
+
+\bibitem{Yao99fep}
+Xin Yao, Yong Liu, , and Guangming Lin.
+\newblock Evolutionary programming made faster.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 3:82--102, 1999.
+
+\bibitem{Zheng10ASurveyof}
+Jieqiong Zheng, Yunfang Chen, and Wei Zhang.
+\newblock A survey of artificial immune applications.
+\newblock {\em Artificial Intelligence Review}, 34(1):19--34, June 2010.
+
+\end{thebibliography}
